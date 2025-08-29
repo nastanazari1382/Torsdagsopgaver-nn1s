@@ -2,8 +2,8 @@
 String address="Lyngby";
 
 //en varibel som gemmer summen af to heltal
-int a=8;
-int b=4;
+int a;
+int b;
 
 //og delle dem 
 int div = a / b;
